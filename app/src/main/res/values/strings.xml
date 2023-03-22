@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TelegramProfile</string>
+    <string name="profile_photo">profile_image</string>
+    <string name="user_name">Mustafa Yassin</string>
+    <string name="last_seen">last seen at 07:00 PM </string>
+    <string name="arrow_back_image">arrow_back_image</string>
+    <string name="menu">menu</string>
+    <string name="infoText">Info</string>
+    <string name="invite_link">Invite link</string>
+    <string name="qr">qr</string>
+    <string name="notificationText">Notification</string>
+    <string name="t_me_mustafa">t.me/Mustafa</string>
+    <string name="on">On</string>
+    <string name="media">Media</string>
+    <string name="files">Files</string>
+    <string name="links">Links</string>
+</resources>
